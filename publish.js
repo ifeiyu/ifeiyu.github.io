@@ -6,7 +6,7 @@ var newestUrls = [
     'https://ify2.xyz'
 ];
 var otherUrls = [
-    'https://ifeiyu.github.io/',
+    'https://ifeiyu.github.io',
     'https://ifeiyu.site',
 ];
 var foreverUrls = [
