@@ -2,8 +2,9 @@ var emails = [
     'feiyu.forever@yandex.com'
 ];
 var newestUrls = [
-    'https://ify1.xyz',
-    'https://ify2.xyz'
+    'https://ify3.xyz',
+    'https://ify4.xyz',
+    'https://ify4.xyz'
 ];
 var otherUrls = [
     'https://ifeiyu.github.io',
